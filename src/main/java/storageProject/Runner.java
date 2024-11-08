@@ -10,6 +10,7 @@ public class Runner {
         System.out.println("çirkin");
         System.out.println("osman");
         System.out.println("hakan");
+        System.out.println("hafize");
 
   Storage depo = new Storage();
 
