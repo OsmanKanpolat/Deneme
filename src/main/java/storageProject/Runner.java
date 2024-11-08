@@ -9,6 +9,7 @@ public class Runner {
         System.out.println("güzel");
         System.out.println("çirkin");
         System.out.println("osman");
+        System.out.println("hakan");
 
   Storage depo = new Storage();
 
